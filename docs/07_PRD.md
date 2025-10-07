@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="Pasted image 20251005151835" src="https://github.com/user-attachments/assets/9056131f-45c9-4457-b65b-88feb6f3d211" /># Personal Gateway Site – PRD 
 
 ## 0. 目的・背景・ビジョン
 
@@ -188,8 +187,6 @@ S1: 問い合わせ削除
 ## 9. 画面設計（概要）
 
 ![Uploading Pasted image 20251005151835.png…]()
-
-
 
 ![Uploading Pasted image 20251005151849.png…]()
 
