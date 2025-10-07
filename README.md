@@ -1,14 +1,14 @@
 # personal-gateway-site
 PoC portfolio project — Requirements, PRD, and implementation for Personal Gateway Site.
 
-## 📘 概要
+##  概要
 個人用ポートフォリオサイト（Notion風）のPoC開発。  
 上流工程（要求定義～PRD）を完了し、仮サイト（トップ／リンク集／問い合わせ）を実装中。  
 最終的には AWS（ALB + EC2 + RDS）構成へ展開予定。
 
 ---
 
-## 📂 ドキュメント構成
+## ドキュメント構成
 | No | ファイル名 | 内容 |
 |----|-------------|------|
 | 01 | [要求定義書.md](docs/01_要求定義書.md) | 利用目的・前提・制約条件 |
@@ -21,7 +21,7 @@ PoC portfolio project — Requirements, PRD, and implementation for Personal Gat
 
 ---
 
-## 🧭 ステータス
+## ステータス
 - **進捗**：上流工程完了（PRD v1.1）  
 - **実装**：仮サイト構築中（Next.js + Tailwind予定）  
 - **インフラ**：AWS PoC段階（ALB + EC2 + RDS）  
