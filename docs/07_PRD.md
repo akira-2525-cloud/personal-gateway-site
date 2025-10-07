@@ -185,12 +185,10 @@ S1: 問い合わせ削除
 ---
 
 ## 9. 画面設計（概要）
+<img width="1536" height="1024" alt="Pasted image 20251005151835" src="https://github.com/user-attachments/assets/597121ec-f857-4280-8400-97016beb1c0f" />
 
-![Uploading Pasted image 20251005151835.png…]()
+<img width="1024" height="1024" alt="Pasted image 20251005151849" src="https://github.com/user-attachments/assets/068aca22-0f25-4438-ac9f-c123261e3162" />
 
-![Uploading Pasted image 20251005151849.png…]()
-
-### 9.1 要約
 
 * **Top**：見出し／説明文／CTA3／フッター
 * **Links**：3リンクカード（PC横／SP縦）
