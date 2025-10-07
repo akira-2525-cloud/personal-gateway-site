@@ -1,4 +1,4 @@
-# Personal Gateway Site – PRD v1.2
+<img width="1536" height="1024" alt="Pasted image 20251005151835" src="https://github.com/user-attachments/assets/9056131f-45c9-4457-b65b-88feb6f3d211" /># Personal Gateway Site – PRD 
 
 ## 0. 目的・背景・ビジョン
 
@@ -70,7 +70,8 @@ VPC 10.10.0.0/16、Public（ALB/EC2）・Private（RDS）、IGWあり／NATな�
 
 ### 4.1 図版
 
-![](../../../00_即断即決/保管庫/保管庫_総合/Pasted%20image%2020251005151352.png)
+<img width="1024" height="683" alt="Pasted image 20251005151352" src="https://github.com/user-attachments/assets/acf39b59-256e-4114-aa1c-d5a4596b7c3e" />
+
 
 ### 4.2 ASCII 概略
 
@@ -185,6 +186,12 @@ S1: 問い合わせ削除
 ---
 
 ## 9. 画面設計（概要）
+
+![Uploading Pasted image 20251005151835.png…]()
+
+
+
+![Uploading Pasted image 20251005151849.png…]()
 
 ### 9.1 要約
 
