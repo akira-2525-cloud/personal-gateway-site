@@ -28,7 +28,3 @@ PoC portfolio project — Requirements, PRD, and implementation for Personal Gat
 - **運用計画**：月額 $10 以内、Budgets 80% 通知
 
 ---
-
-## 🧱 関連
-- LinkedIn: [Akira Itou](https://www.linkedin.com/in/akira-ito/)
-- GitHub: [akira-2525-cloud](https://github.com/akira-2525-cloud)
